@@ -1,0 +1,72 @@
+{
+    "oled" : {
+        "config" : {
+            "name" : "Nom",
+            "address" : "Direction du bus",
+            "width" : "Largeur",
+            "height": "Haut",
+            "fanAddress" : "Fan-Bus-Adresse"
+        },
+        "battery" : {
+            "display": "Affichage",
+            "name" : "Nom"
+        },
+        "clear" : {
+            "display": "Affichage",
+            "name" : "Nom"
+        },
+        "clock": {
+            "display": "Affichage",
+            "name": "Nom"
+        },
+        "dimmed" : {
+            "display": "Affichage",
+            "name" : "Nom"
+        },
+        "fillRectangle" : {
+            "display": "Affichage",
+            "name" : "Nom"
+        },
+        "fan" : {
+            "display": "Affichage",
+            "name" : "Nom"
+        },
+        "invertion" : {
+            "display": "Affichage",
+            "name" : "Nom"
+        },
+        "image" : {
+            "display": "Affichage",
+            "name" : "Nom"
+        },
+        "line" : {
+            "display": "Affichage",
+            "name" : "Nom"
+        },
+        "pixel" : {
+            "display": "Affichage",
+            "name" : "Nom"
+        },
+        "scroll" : {
+            "display": "Affichage",
+            "name" : "Nom"
+        },
+        "string" : {
+            "display": "Affichage",
+            "name" : "Nom"
+        },
+        "turn-on" : {
+            "display": "Affichage",
+            "name" : "Nom"
+        },
+        "turn-off" : {
+            "display": "Affichage",
+            "name" : "Nom"
+        },
+        "wifi" : {
+            "display": "Affichage",
+            "name" : "Nom"
+        }
+        
+        }
+    }
